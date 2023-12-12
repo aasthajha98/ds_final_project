@@ -30,14 +30,24 @@ As the influence of sports expands in society, we question if it also influences
     * Description: Code for using Perspective API to calculate Toxicity and Identity Attack Scores
     * Input: data_w_roberta_score.csv 
     * Output: final_data.csv
-* Data Visuailzation.ipynb
+* Data_Visuailzation.ipynb
     * Description: Code for creating visualizations of comment characteristics,
     * Input: final_data.csv
-    * Output: bar charts of whole numbers and proportions of comments by hate speech and non hate speech, line plots of comments over time, word clouds with most common words used in hate speech and non hate speech comments. 
-* Data Visualization with Perspective Data.ipynb
+    * Output:
+        * Figure 1.1 Hate Comment Count
+        * Figure 1.2 Hate Comment Share 
+        * Figure 1.3 Comment Classification Count 
+        * Figure 4.1 Word Cloud Hate 
+        * Figure 4.2 Word Cloud Good 
+* Data_Visualization_Perspective.ipynb
     * Description: Code for creating visualizations of replies and likes, and visualizations of toxicity scores and identity attack scores
     * Input: final_data.csv
-    * Output: Histogram and Violin plots of toxicity score and identity attack scores, bar chart of replies and likes on hate speech and non hate speech 
+    * Output:
+        * Figure 2.1 Like Count 
+        * Figure 2.2 Reply Count 
+        * Figure 3.1 Toxicity Histogram 
+        * Figure 3.2 Identity Attack Histogram 
+        * Figure 3.3 Violin Plot Toxicity 
 
 ## Proposal
 
@@ -57,7 +67,6 @@ As the influence of sports expands in society, we question if it also influences
 * Figure 3.1 Toxicity Histogram 
 * Figure 3.2 Identity Attack Histogram 
 * Figure 3.3 Violin Plot Toxicity 
-* Figure 3.4 Violin Plot Idenetity 
 * Figure 4.1 Word Cloud Hate 
 * Figure 4.2 Word Cloud Good 
 
