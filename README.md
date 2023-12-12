@@ -47,6 +47,22 @@ As the influence of sports expands in society, we question if it also influences
 
 * Final report detailing our methodology and our findings. 
 
+## Figures 
+
+* Figure 1.1 Hate Comment Count
+* Figure 1.2 Hate Comment Share 
+* Figure 1.3 Comment Classification Count 
+* Figure 2.1 Like Count 
+* Figure 2.2 Reply Count 
+* Figure 3.1 Toxicity Histogram 
+* Figure 3.2 Identity Attack Histogram 
+* Figure 3.3 Violin Plot Toxicity 
+* Figure 3.4 Violin Plot Idenetity 
+* Figure 4.1 Word Cloud Hate 
+* Figure 4.2 Word Cloud Good 
+
+
+
 ## Authors
 
 * Aastha Jha: aj935@georgetown.edu
